@@ -1,0 +1,7 @@
+# Path-based git attributes
+# https://www.kernel.org/pub/software/scm/git/docs/gitattributes.html
+
+# Set the default behavior, in case people don't have core.autocrlf set.
+# https://docs.github.com/en/get-started/getting-started-with-git/configuring-git-to-handle-line-endings
+# https://adaptivepatchwork.com/2012/03/01/mind-the-end-of-your-line/
+* text=auto
